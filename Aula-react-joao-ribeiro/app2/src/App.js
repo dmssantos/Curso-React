@@ -1,11 +1,16 @@
-import React from 'react'
+import React, {useState} from 'react';
 
-class App extends React.Component{
-  render(){
-    return(
-      <p>Terminado!</p>
-    )
-  }
+
+const App = () => {
+
+  const[Nome, setNome] = useState('David')
+
+  return(
+    <div>
+      <p>O meu nome é: {Nome}</p>
+      <button onClick={() => setNome('Tati')}>Alterar</button>
+    </div>
+  )
 }
 
 export default App;
