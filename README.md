@@ -1,6 +1,6 @@
 # :small_blue_diamond: Reactjs
 
-:point_right: Aulas de Reactjs  
+:point_right: Aulas de Reactjs com o professor João Ribeiro no Youtube.
 
 <kbd>HTML</kbd>  
 <kbd>CSS</kbd>  
