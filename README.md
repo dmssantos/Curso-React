@@ -1,4 +1,4 @@
-# :atom: Reactjs
+# :small_blue_diamond: Reactjs
 
 :point_right: Aulas de Reactjs  
 
