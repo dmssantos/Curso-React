@@ -1,4 +1,4 @@
-# :small_blue_diamond: Reactjs
+# :small_blue_diamond: Curso Reactjs
 
 :point_right: Aulas de Reactjs com o professor João Ribeiro no Youtube.
 
